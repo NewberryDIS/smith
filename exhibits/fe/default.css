@@ -1,0 +1,24 @@
+body { background-color: #FFFFFF;  font-size: 11pt; font-family: Garamond, "Times New Roman", Times, serif; font-size: 11pt; line-height: 120%; margin: auto; width: 700px; 
+background: url("https://publications.newberry.org/smith/exhibits/fe/images/background.jpg") no-repeat center 0; 
+
+}
+
+header { height: 230px; margin: 1px 30px; 
+}
+header h1 { font-size: 16pt; margin: 5px 10px; }
+header p { font-weight: bold; font-size: 10pt; margin: 10px;}
+header ul {margin: 10px;}
+
+a:active {color: #cccc99;}
+a:link {color: #990000;}
+a:visited {	color: #333333 ;}
+img { margin: 0 15px 1px 0; float: left;}
+
+h1 { font-size: 20pt; color: #990000; line-height: 110%; }
+h2 { font-size: 16pt; line-height: 110%; color: #990000; }
+h3 { font-size: 14pt; line-height: 110%; }
+h4 { font-size: 12pt; line-height: 110%; }
+h5 { font-size: 10pt; font-weight: bold; line-height: 110%; }
+h6 { font-size: 10pt; font-weight: normal; line-height: 110%; }
+ul { list-style-type: none; padding: 0px;  }
+

@@ -1,0 +1,68 @@
+.menubar {
+	font-family: Arial, "MS Sans Serif", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: bold;
+	border: 1px #eeeeee solid;
+	padding: 2px 2px 2px 2px;
+	width: 764;
+	background-color: #cccccc;
+}
+
+.mainFolderBox {
+	background-color : #EEEEEE;
+	margin : 0px 0px 0px 0px;
+	padding : 3px 3px 3px 3px;
+	vertical-align : top
+}
+
+.mainFolderLine {
+	font-family: Arial, "MS Sans Serif", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: bold;
+	color : #000000;
+	text-decoration : none;
+}
+
+a.mainFolderLine {
+	color: #000000 !important;
+}
+
+.mainFolderLineMouseOver {
+	font-family: Arial, "MS Sans Serif", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: bold;
+	color : #990000;
+	text-decoration : none;
+}
+
+.linkBox {
+	background-color : #EEEEEE;
+	margin : 0px 0px 0px 0px;
+	padding : 3px 3px 3px 3px;
+	border: 1px #DDDDDD solid;
+}
+
+.linkLine {
+	font-family: Arial, "MS Sans Serif", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: bold;
+	color : #000000;
+	text-decoration : none;
+}
+
+a.LinkLine {
+	color: #000000 !important;
+}
+
+.linkLineMouseOver {
+	font-family: Arial, "MS Sans Serif", sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: bold;
+	color : #990000;
+	text-decoration : none;
+}
